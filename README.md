@@ -1,4 +1,6 @@
-# AstroNvim Template
+# Forked from the AstroNvim Template
+
+This is my AstroNvim config, to easily replicate the config across different hosts and environments.
 
 **NOTE:** This is for AstroNvim v4+
 
